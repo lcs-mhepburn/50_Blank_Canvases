@@ -15,13 +15,24 @@ import PlaygroundSupport
 // Create canvas
 let canvas = Canvas(width: 400, height: 300)
 
-/*:
- ## Add your code below
- 
- Be sure to write human-readable code.
- 
- Use whitespace and comments as appropriate.
- */
+
+
+
+
+
+
+
+
+
+//get the encoded bitmap string
+let EncodedBitmap =
+GetEncodedBitmapString(0) =
+//loop
+// for i in stride(from: 0, through
+    
+
+
+
 // Replace this comment with your first comment – what is the goal of the code you're about to write?
 
 

@@ -13,8 +13,10 @@ import Cocoa
 import PlaygroundSupport
 
 // Create canvas
-let canvas = Canvas(width: 400, height: 300)
+let canvas = Canvas(width: 1000, height:200)
 
+fillColor.Green
+canvas.drawRectangle(centreX: 0, centreY: 0, width:  5, height: 200)
 /*:
  ## Add your code below
  
@@ -44,6 +46,8 @@ let canvas = Canvas(width: 400, height: 300)
  
  ![timeline](timeline.png "Timeline")
  */
+
+
+c
 // Don't remove the code below
 PlaygroundPage.current.liveView = canvas.imageView
-
